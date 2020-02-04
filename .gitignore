@@ -4,7 +4,10 @@
 bin/
 obj/
 results/
+cmake-build-debug/
+.idea/
 
+CMakeLists.txt
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
